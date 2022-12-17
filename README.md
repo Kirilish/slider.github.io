@@ -1,1 +1,1 @@
-# slider.github.io
+https://kirilish.github.io/slider.github.io/
